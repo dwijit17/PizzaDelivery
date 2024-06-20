@@ -1,0 +1,69 @@
+.main-banner{
+    /* border: 2px solid red; */
+    height: 350px;
+    background-color: rgb(0, 0, 0) ;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:3px ;
+}
+.content{
+    color: white;
+    padding: 10px;
+    margin-left: 100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.pizzaimage{
+    height: 345px;
+    width: 650px;
+}
+.center-banner{
+ display: flex;
+ background-color: rgb(233, 232, 232);
+ margin-bottom: 3px;
+}
+.side-content{
+    font-size: larger;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: bold;
+}
+.end-content{
+    background-color:rgba(254, 71, 71, 0.97);
+    height: 300px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 60px;
+}
+.grid-item{
+  background-color: rgba(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+  border: 5px solid black;
+}
+.caption{
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+}
+.special-icon{
+    height: 50px;
+    width: 50px;
+}
+.ordernow{
+    color: white;
+}
+.ordernow:hover{
+    color: black;
+}

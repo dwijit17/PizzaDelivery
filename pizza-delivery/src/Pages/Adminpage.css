@@ -1,0 +1,34 @@
+/* src/pages/Adminpage.css */
+.admincontainer {
+    padding: 20px;
+  }
+  
+  .users-table, .orders-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .users-table th, .users-table td, .orders-table th, .orders-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .users-table th, .orders-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .admin-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .admin-buttons .mdb-btn {
+    flex: 1;
+  }
+  

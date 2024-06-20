@@ -1,0 +1,33 @@
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.custompizza-different{
+    display: flex;
+    border: 2px solid red;
+    /* height: 700px; */
+    border-radius: 20px;
+    align-items: center;
+    justify-self: center;
+    flex-direction: column;
+    text-align: center;
+    width: 700px;
+}
+.custompizza-different img{
+    width: 700px;
+    height: 200px;
+}
+.rads{
+    margin: 5px;
+}
+.baseselect {
+    width: 100%;
+}
+.sauceselect{
+    width: 100%;
+}
+#quantity{
+    width: 100%;
+}

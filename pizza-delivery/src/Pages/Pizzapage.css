@@ -1,0 +1,13 @@
+.grid-content{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+    gap:55px;
+    text-align: center;
+}
+.custompizza{
+    text-align: center;
+    background-color: rgb(255, 139, 139);
+    padding: 50px;
+}

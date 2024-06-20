@@ -1,0 +1,18 @@
+.cartitem{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.ordernow{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
+.deleteicon{
+    width: 25px;
+    height: 25px;
+}

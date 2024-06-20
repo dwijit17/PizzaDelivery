@@ -1,0 +1,20 @@
+.pizzacard{
+    display: flex;
+    border: 2px solid red;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+}
+.pizzaimage{
+    width: 200px;
+    height: 250px;
+    margin: 2px;
+}
+.pricebottom{
+    display: flex;
+    pad: 10px;
+    margin: 10px;
+}
