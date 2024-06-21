@@ -37,5 +37,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Pizza-Delivery.git
+   git clone https://github.com/dwijit17/Pizza-Delivery.git
    cd Pizza-Delivery
